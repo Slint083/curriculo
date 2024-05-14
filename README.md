@@ -2,10 +2,10 @@
 <HEAD>
 <TITLE>CURRICULO DE JANINA</TITLE>
 </HEAD>
-<BODY background=h.jpg bgproperties=fixed>
+<BODY background=Janina/h.jpg bgproperties=fixed>
 <H1 ALIGN=CENTER>*CURRICULUM VITAE*</H1>
-<BGSOUND SRC=B.MP3>
-<CENTER><IMG SRC=c.JPG WIDTH=20%></CENTER>
+<BGSOUND SRC=Janina/B.mp3>
+<CENTER><IMG SRC=Janina/c.jpg WIDTH=20%></CENTER>
 <MARQUEE><H2>JANINA PEREIRA PONTES</H2></MARQUEE>
 <HR>
 <H3><I>DADOS PESSOAIS:</I></H3>
