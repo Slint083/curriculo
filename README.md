@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Currículo de Janina</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -77,6 +78,3 @@
             <li>Manutenção corretiva e preditiva - SENAI (30 horas)</li>
         </ul>
     </section>
-
-</body>
-</html>
